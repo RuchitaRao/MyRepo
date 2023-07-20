@@ -1,5 +1,5 @@
 # MyRepo
- Hello, Ruchita here
- 
-I am a student, studying Computer Science Engineering in KLEIT Hubli.
+ So, here is the small project on web development using html and css
+
+ where i tried to creat a website, to register for kindergarten
 
